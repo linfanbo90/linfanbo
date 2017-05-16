@@ -16,6 +16,10 @@ body{
 .mar_t15{
 	margin-top: 15px;
 }
+/*padding*/
+.pad0{
+	padding: 0;
+}
 /*page-header*/
 .page-header{
 	margin-top: 0;
@@ -28,6 +32,13 @@ body{
 	padding: 10px;
 	border: 1px solid #ddd;
 	border-top: none;
+}
+/*tag*/
+.taglist{
+	padding-top: 15px;
+}
+.taglist .alert{
+	margin: 0 15px 15px 0;
 }
 footer{
 	font-weight: 400;
